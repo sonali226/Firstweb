@@ -1,0 +1,33 @@
+body{
+  background-color: grey;
+}
+div{
+    margin:auto;
+    width:400px;
+    text-align:center;
+   
+   }
+   
+   h1{
+    margin-right:80px;
+   
+   }
+   .h2{
+    margin-right: 50%;
+   }
+   ul,li{
+       width: 26%;
+   }
+     table{
+         border: 1;
+         border-color:black;
+         border-style: solid;
+         text-align: center;
+         width: 60%;
+     }
+   td{
+       text-align: center;
+       
+   }
+
+
